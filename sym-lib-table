@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TTB KiCAD Components")(type "KiCad")(uri "${KIPRJMOD}/TTB KiCAD Components.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TTB KiCAD Footprints")(type "KiCad")(uri "${KIPRJMOD}/TTB KiCAD Footprints.pretty")(options "")(descr ""))
+)
