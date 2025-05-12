@@ -1,4 +1,4 @@
-25217685689625614
+25215945475549696
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -70776,13 +70776,6 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
-PJ-102A
-CUI_PJ-102A
-
-
-0
-3
-3
 Package_BGA
 Alliance_TFBGA-36_6x8mm_Layout6x8_P0.75mm
 Alliance TFBGA-36, NSMD, 6.0x8.0mm, 36 Ball, 6x8 Layout, 0.75mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.alliancememory.com/wp-content/uploads/pdf/AS6C1008_Mar_2023V1.2.pdf#page=13
@@ -94483,8 +94476,8 @@ TTB KiCAD Footprints
 
 
 0
-18
-18
+6
+6
 TTB KiCAD Footprints
 ESP32_DEVKIT_V1_TYPE_C
 
@@ -94504,8 +94497,8 @@ XY-160D Motor Driver
 
 
 0
-16
-16
+0
+0
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
