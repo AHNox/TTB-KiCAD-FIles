@@ -3086,7 +3086,7 @@
 			)
 		)
 		(property "Value" "Mtr_Driver_Logic"
-			(at 1.27 12.54 0)
+			(at 1.27 12.74 0)
 			(layer "F.SilkS")
 			(uuid "6bd89b3b-95ad-4436-88f9-9e7ec868b34d")
 			(effects
@@ -3496,7 +3496,7 @@
 		)
 	)
 	(gr_text "IN4"
-		(at 156.5 64.5 0)
+		(at 156.5 64.6 0)
 		(layer "F.SilkS")
 		(uuid "15fefdc4-3ea5-4814-812f-18cd35b83259")
 		(effects
@@ -3507,7 +3507,7 @@
 		)
 	)
 	(gr_text "IN1"
-		(at 147 62.5 0)
+		(at 147 62.1 0)
 		(layer "F.SilkS")
 		(uuid "201194b4-cf90-4bc4-8a69-dd4c1d51a541")
 		(effects
@@ -3529,7 +3529,7 @@
 		)
 	)
 	(gr_text "GND\n"
-		(at 147 67.5 0)
+		(at 147 67.1 0)
 		(layer "F.SilkS")
 		(uuid "2a98f621-7741-4a57-8d5d-dce209bc8e96")
 		(effects
@@ -3573,7 +3573,7 @@
 		)
 	)
 	(gr_text "GND\n"
-		(at 156.5 67 0)
+		(at 156.5 67.2 0)
 		(layer "F.SilkS")
 		(uuid "a6b9e182-dd16-4ad2-aaec-f1abda2b2b5d")
 		(effects
@@ -3617,7 +3617,7 @@
 		)
 	)
 	(gr_text "IN2"
-		(at 147 65 0)
+		(at 147 64.6 0)
 		(layer "F.SilkS")
 		(uuid "ba4d59e5-7944-4113-816f-7e3e770af0ef")
 		(effects
@@ -3650,7 +3650,7 @@
 		)
 	)
 	(gr_text "IN3"
-		(at 156.5 62 0)
+		(at 156.5 62.1 0)
 		(layer "F.SilkS")
 		(uuid "d99d02f4-29a6-4451-860a-185400ed2c3c")
 		(effects
